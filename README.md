@@ -1,7 +1,7 @@
 # BunkerBitcoin
 A List of Files for the Apocalypse 
 
-Multiple Texts
+Multiple Texts and files from as of july 2023
 https://nakamotoinstitute.org/literature/
 
 Satoshi Nakamoto Replies Data Set
